@@ -4,3 +4,5 @@ In the webform content type create a field
 On "Manage Display" hide the field (unless you want everybody to know who may
 access the results).
 
+depends on References module : "https://www.drupal.org/project/references" (for user reference field)
+
