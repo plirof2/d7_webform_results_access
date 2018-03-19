@@ -4,5 +4,6 @@ description = Allow node specific results access for Webforms For Minedu osteam
 core = 7.x
 package = Webform
 php = 5.3
-version = "7.x-1.0c-dev"
+version = "7.x-1.0c-devjonmod180319b"
 dependencies[] = references
+dependencies[] = user_reference
